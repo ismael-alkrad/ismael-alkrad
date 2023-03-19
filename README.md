@@ -1,4 +1,4 @@
-<img height="300px" width="600px" src="https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png">
+<img height="300px" width="1000px" src="https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png">
 <h1 align="center">Hi 👋, I'm Ismael</h1>
 <h3 align="center">A passionate about analyzing systems</h3>
 
