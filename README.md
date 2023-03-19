@@ -1,5 +1,5 @@
 <img height="300px" width="1000px" src="https://www.springboard.com/blog/wp-content/uploads/2019/07/sb-blog-programming.png">
-<h1 align="center">Hi 👋, I'm Ismael</h1>
+<h1 align="center">Hi 👋, I'm Ismael Alkrad</h1>
 <h3 align="center">A passionate about analyzing systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismael-alkrad&label=Profile%20views&color=0e75b6&style=flat" alt="ismael-alkrad" /> </p>
