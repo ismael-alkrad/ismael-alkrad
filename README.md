@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isamel</h1>
-<h3 align="center">A passionate System Analyst from India</h3>
+<h3 align="center">I am passionate about analyzing systems</h3>
 
 - 📫 How to reach me **Esmaelalkrad3@gmail.com**
 
